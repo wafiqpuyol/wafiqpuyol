@@ -20,9 +20,10 @@
 </p>
 
 <h3  align="center">My GitHub Stats 📈</b>
-<a href="http://www.github.com/wafiqpuyol"><img align="left" src="https://github-readme-stats.vercel.app/api?username=wafiqpuyol&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="wafiqpuyol's GitHub stats" /></a>
+<a href="http://www.github.com/wafiqpuyol"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqpuyol&stroke=ec4899&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ec4899&currStreakLabel=22c55e&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+  
+<a href="http://www.github.com/wafiqpuyol"><img align="right" src="https://github-readme-stats.vercel.app/api?username=wafiqpuyol&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="wafiqpuyol's GitHub stats" /></a>
 
-<a href="http://www.github.com/wafiqpuyol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqpuyol&stroke=ec4899&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ec4899&currStreakLabel=22c55e&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
 <b>Frequently used Language </b>
 <a href="https://github.com/wafiqpuyol" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafiqpuyol&langs_count=10&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
