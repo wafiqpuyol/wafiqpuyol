@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wafiq Hossain</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Backend focused Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafiqpuyol&label=Profile%20views&color=2D2AEE&style=for-the-badge" style="for-the-badge" alt="wafiqpuyol" /> </p>
 
