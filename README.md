@@ -58,7 +58,7 @@
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 
 <!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
-[![My Skills]([https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8](https://skillicons.dev/icons?i=js,react,express,cpp,postgres,mongodb,git,githubactions,nodejs,vite,tailwind,docker,go,graphql,jest,kafka,nextjs,nginx,prisma,redis,supabase,ts,vitest&perline=8))](https://github.com/wafiqpuyol)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,cpp,postgres,mongodb,git,githubactions,nodejs,vite,tailwind,docker,go,graphql,jest,kafka,nextjs,nginx,prisma,redis,supabase,ts,vitest&perline=8)](https://github.com/wafiqpuyol)
 
 ## <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px"> Stats:
 <table width="100%" align="center">
