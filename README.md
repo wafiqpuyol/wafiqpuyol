@@ -1,11 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</br>
 <!--%2FBackend &multiline=true-->
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420">
 
 <p align="left">
 
-[![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wafiqpuyol/)
+![](https://komarev.com/ghpvc/?username=wafiqpuyol&color=blueviolet&style=plastic&label=Profile+Views)
+![](https://visitor-badge.glitch.me/badge?page_id=wafiqpuyol.wafiqpuyol&right_color=orange&left_text=Visits)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-28%2012%202024-red)](https://github.com/wafiqpuyol) 
+<a href="https://github.com/wafiqpuyol">
+    <img src="https://img.shields.io/github/followers/wafiqpuyol?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+</a>
 </p>
 
 - <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="24">Currently learning 
@@ -17,13 +23,6 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/wafiqpuyol)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.ujjwalsaini.tech/)
 - <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
-
-![](https://komarev.com/ghpvc/?username=wafiqpuyol&color=blueviolet&style=plastic&label=Profile+Views)
-![](https://visitor-badge.glitch.me/badge?page_id=wafiqpuyol.wafiqpuyol&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-28%2012%202024-red)](https://github.com/wafiqpuyol) 
-<a href="https://github.com/wafiqpuyol">
-    <img src="https://img.shields.io/github/followers/wafiqpuyol?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
-</a>
 <!-- colors : brightgreen, green, yellow, yellowgreen, orange, red, blue, blueviolet, ff69b4 -->
 <!-- styles : flat, flat-square	, plastic -->
 
@@ -35,7 +34,7 @@
 
 ##
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wafiqpuyol&theme=monokai" alt="wafiqpuyol" /></a> </p>-->
-<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
+<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  width="385">
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
@@ -53,11 +52,11 @@
 <tr>
 <td>
   <!-- For Github Stats -->
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=wafiqpuyol&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=wafiqpuyol&show_icons=true&theme=highcontrast&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
 </td>
 <td>
   <!-- Most Languages Used -->
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafiqpuyol&theme=radical" height="175" alt="languages graph"  />
+  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafiqpuyol&theme=highcontrast" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -65,22 +64,22 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
-  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqpuyol&theme=radical&hide_border=false&width=300&height="175" />
+  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqpuyol&theme=highcontrast&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
-  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafiqpuyol&theme=radical" alt="Github Theme Stats">
+  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafiqpuyol&theme=highcontrast" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
 <table width="100%" align="center">
 <td>
   <!-- Profile Summary -->
-  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafiqpuyol&theme=radical" alt="Profile Summary">
+  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafiqpuyol&theme=highcontrast" alt="Profile Summary">
 </td>
 <td>
   <!-- languages graph -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wafiqpuyol&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wafiqpuyol&theme=highcontrast&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
