@@ -8,25 +8,25 @@
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wafiqpuyol/)
 </p>
 
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="25">I’m currently learning 
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="10">I’m currently learning 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="10">I work using 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="10">How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:ujjwalsaini0007+github@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiqpuyol/)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="10">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](#)
   [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)](#)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="10">Projects are available at
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/wafiqpuyol)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.ujjwalsaini.tech/)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="10"> Let's connect and collaborate on exciting projects!
 
 ![](https://komarev.com/ghpvc/?username=wafiqpuyol&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=wafiqpuyol.wafiqpuyol&right_color=orange&left_text=Visits)
