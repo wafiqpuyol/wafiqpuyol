@@ -8,21 +8,11 @@
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wafiqpuyol/)
 </p>
 
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="24">I’m currently learning 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="24">I work using 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="24">Currently learning 
+![Go](https://img.shields.io/badge/-Go-%23F7DF1C?style=plastic&logo=go&logoColor=000000&labelColor=blue&color=blue)
+- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="24">Work using 
+![Git](https://img.shields.io/badge/-neovim-black?style=plastic&logo=neovim)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="24">How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:ujjwalsaini0007+github@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafiqpuyol/)
-- <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="24">Interested In
-  [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
-  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](#)
-  [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)](#)
 - <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/wafiqpuyol)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.ujjwalsaini.tech/)
@@ -49,10 +39,8 @@
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
-<a href="https://x.com/UjjwalSaini0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wafiqpuyol" height="30" width="40" /></a>
-<a href="https://instagram.com/wafiqpuyol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wafiqpuyol" height="30" width="40" /> </a>
-<a href="https://www.linkedin.com/in/wafiqpuyol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-saini-220960256" height="30" width="40" /></a>
-<a href="mailto:ujjwalsaini0007+github@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
+<a href="https://x.com/wafiq25f12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wafiqpuyol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wafiq-hossain-4479042a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-saini-220960256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
