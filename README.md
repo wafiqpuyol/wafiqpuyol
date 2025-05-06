@@ -19,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
 - <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/wafiqpuyol)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.ujjwalsaini.tech/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://github.com/wafiqpuyol/)
 - <img align='left' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 <!-- colors : brightgreen, green, yellow, yellowgreen, orange, red, blue, blueviolet, ff69b4 -->
 <!-- styles : flat, flat-square	, plastic -->
@@ -37,13 +37,13 @@
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/wafiqpuyol/wafiqpuyol/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
 <a href="https://x.com/wafiq25f12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wafiqpuyol" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wafiq-hossain-4479042a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-saini-220960256" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-saini-220960256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 
 <!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,cpp,postgres,mongodb,git,githubactions,nodejs,vite,tailwind,docker,go,graphql,jest,kafka,nextjs,nginx,prisma,redis,supabase,ts,vitest&perline=8)](https://github.com/wafiqpuyol)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,cpp,postgres,mongodb,git,githubactions,nodejs,vite,tailwind,docker,go,graphql,jest,kafka,nextjs,nginx,prisma,prometheus,grafana,redis,supabase,ts,terraform,sklearn,vitest&perline=8)](https://github.com/wafiqpuyol)
 
 ## <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px"> Stats:
 <table width="100%" align="center">
